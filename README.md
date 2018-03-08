@@ -1,1 +1,1 @@
-Translation of FreeCodeCamp to Indonesia Language by SANDEC
+Translation of FreeCodeCamp to Indonesia Language by Santren Koding
